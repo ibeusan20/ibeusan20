@@ -1,12 +1,11 @@
 <div align="center">
+  
+# Visit my personal site 😊
 
-# My personal site
-
-### [🌐 Visit](https://ibeusan20.github.io)
+### [🌐 Visit ibeusan20.github.io ](https://ibeusan20.github.io)
 
 </div>
 
-## Hi there 👋
 
 <!--
 **ibeusan20/ibeusan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
