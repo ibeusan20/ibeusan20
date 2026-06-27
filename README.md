@@ -2,7 +2,7 @@
   
 # Visit my personal site 😊
 
-### [🌐 Visit ibeusan20.github.io ](https://ibeusan20.github.io)
+### [🌐 Visit ivanbeusan.from.hr ](https://ivanbeusan.from.hr)
 
 </div>
 
